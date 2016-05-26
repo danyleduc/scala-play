@@ -29,3 +29,7 @@ default templating theme for play is scala
 case class (scala)
 
 http://docs.scala-lang.org/tutorials/tour/case-classes.html
+
+why companion objects ?
+
+http://programmers.stackexchange.com/questions/179390/what-are-the-advantages-of-scalas-companion-objects-vs-static-methods
